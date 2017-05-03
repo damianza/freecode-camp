@@ -1,0 +1,15 @@
+.about img {
+  width: 150px;
+}
+
+.aboutthispage {
+  height: 100px;
+}
+
+.label-round {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  background-color: white;
+  font-size: 2em;
+}
